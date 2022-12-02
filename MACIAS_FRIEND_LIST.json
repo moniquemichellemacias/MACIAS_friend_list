@@ -10,15 +10,15 @@
     {
         "Friends List" : [
           {
-              "Name": "KIMBERLY",
+              "Name": "Nerma",
               "Age": "21",
-              "Address": "Pavia",
+              "Address": "Semirara",
               "Likes" :"SINGING",
               "Dislikes" : "Filipino Subject", 
               "Feeling" : "Tired"
           },
           {
-            "Name": "Carl",
+            "Name": "CYRIL",
             "Age": "27",
             "Address": "Jaro",
             "Likes" :"SINGING",
@@ -26,7 +26,7 @@
             "Feeling" : "Tired"
         },
           {
-            "Name": "Joy",
+            "Name": "ALEAH",
             "Age": "25",
             "Address": "Pavia",
             "Likes" :"Dancing ",
@@ -34,7 +34,7 @@
             "Feeling" : " Pretty "
           },
           {
-            "Name": "Catherine",
+            "Name": "DIAN",
             "Age": "22",
             "Address": "Pavia",
             "Likes" :"Playing Video Games",
